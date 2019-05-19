@@ -16,6 +16,6 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 #### 显示导出文件所在目录
 ![](https://i.loli.net/2019/05/19/5ce1022606df294689.jpg)
 ##### 导出文件由其他自带app打开的截图
-![](https://i.loli.net/2019/05/19/5ce0ff213d8de13940.jpg)
+![](https://i.loli.net/2019/05/19/5ce102900ba9027684.jpg)
 
 
