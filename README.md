@@ -11,5 +11,11 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 #### 排序功能，有按创建时间排序和修改时间排序两种
 ![](https://i.loli.net/2019/05/19/5ce0ff213d8de13940.jpg)
 #### 导出功能
+#### 导出文件,可以修改导出文件名
+![](https://i.loli.net/2019/05/19/5ce101a9d660b13781.jpg)
+#### 显示导出文件所在目录
+![](https://i.loli.net/2019/05/19/5ce1022606df294689.jpg)
 ##### 导出文件由其他自带app打开的截图
 ![](https://i.loli.net/2019/05/19/5ce0ff213d8de13940.jpg)
+
+
